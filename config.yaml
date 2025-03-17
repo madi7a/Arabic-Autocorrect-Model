@@ -1,0 +1,7 @@
+model:
+  name: "AraBERT"
+  version: "v1.0"
+training:
+  batch_size: 16
+  learning_rate: 3e-5
+  epochs: 10
